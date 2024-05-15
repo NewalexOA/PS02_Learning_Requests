@@ -7,7 +7,7 @@ This project is a simple word game that fetches a random English word, translate
 1. Ensure you have Python installed on your machine.
 2. Install the required packages using:
     ```sh
-    pip install requests googletrans==4.0.0-rc1 beautifulsoup4
+    pip install requests googletrans==3.1.0a0 beautifulsoup4
     ```
 3. Run the script:
     ```sh
@@ -31,7 +31,7 @@ The script consists of three main functions:
 1. Убедитесь, что у вас установлен Python.
 2. Установите необходимые пакеты, используя:
     ```sh
-    pip install requests googletrans==4.0.0-rc1 beautifulsoup4
+    pip install requests googletrans==3.1.0a0 beautifulsoup4
     ```
 3. Запустите скрипт:
     ```sh
